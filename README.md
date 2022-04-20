@@ -10,4 +10,5 @@
 <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Material UI-3f51b5?style=for-the-badge&logo=Mui&logoColor=white">
 <img src="https://img.shields.io/badge/React Query-ff4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
-<br><br> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/styled components-pink?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<br><br> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black">  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
